@@ -3,7 +3,8 @@
     --primary: #000;
     --secondary: #5F656F;
     --light: #F5F5F5;
-    --dark: #222;
+    --dark: #FBB10C;
+    --bg-gradient: linear-gradient(110deg, rgba(251,177,12,1) 0%, rgba(2,86,128,1) 33%, rgba(0,0,0,1) 100%);
 }
 
 .back-to-top {
@@ -196,7 +197,7 @@ h6,
     bottom: 0;
     display: flex;
     align-items: center;
-    background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%);
+    background: linear-gradient(to right, rgb(2, 24, 59) 0%, rgba(2, 36, 91, 0) 100%);
     z-index: 1;
 }
 
